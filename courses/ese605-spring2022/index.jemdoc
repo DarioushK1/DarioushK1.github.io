@@ -1,12 +1,14 @@
 # jemdoc: menu{MENU}{index.html}
 # jemdoc: menu{MENU}{../../}
-= ESE 605, Spring 2022 -- Modern Convex Optimization
+= ME 340, Fall 2022 -- Dynamics of Mechanical Systems
 
-*Instructor:* Nikolai Matni ([nmatni@seas.upenn.edu nmatni@seas.upenn.edu]), Assistant Professor, ESE Department
+*Instructor:* Darioush Keivan ([dk12@illinois.edu dk12@illinois.edu]), PhD Student, Mechanical Engineering Department
 
-*TAs:* Thomas Zhang ([ttz2@seas.upenn.edu ttz2@seas.upenn.edu]), Fengjun Yang ([fengjun@seas.upenn.edu fengjun@seas.upenn.edu]), Alex Nguyen-Le ([atn@seas.upenn.edu atn@seas.upenn.edu]) 
+*TA:* Zhengtao Xu ([zx8@illinois.edu zx8@illinois.edu])
 
-*Lectures:* Tu\/Th 3:30-5:00pm ET in LRSM with live stream to Zoom (check Canvas for Link/Passcode) -- lectures will be recorded live and posted to Canvas afterwards.  You may choose to attend the live recordings or watch asynchronously.  Beyond showing basic respect to the instructor and your classmates, no requirements (e.g., cameras must be on, you may not watch from bed, no eating, etc.)  will be asked of those tuning in on Zoom to live lectures. *Note that classes will be virtual only until Jan 24, 2022.*
+*Graders:* Eugene Hwang ([eugeneh4@illinois.edu eugeneh4@illinois.edu]), Holiday Han ([ziyinh2@illinois.edu ziyinh2@illinois.edu])
+
+*Lectures:* MWF 10:00-10:50am CT in 4100 Sidney Lu Mechanical Engineering Bldg (LUMEB 4100).
 
 *Syllabus*: [./Syllabus.pdf ESE605-001]
 
