@@ -61,22 +61,22 @@ The following schedule is tentative and subject to change.
 ~~~
 {}{table}{SCHEDULE}
 Date          | Topic          | materials | Comments ||
-Week 1\n (8\/22 - 8\/26) |  Logistics \n Introduction \n Complex Analysis   | Chapter 1\n Appendix A| Sign up for Canvas & Piazza ||
-Week 2\n (8\/29 - 9\/2) | Complex Analysis \n Ordinary differential equations | Chapter 2| Homework 1 (due 2\/04) ||
-Week 3\n (9\/5 - 9\/9) | Ordinary differential equations \n State space equations | Chapter 3 | No new homework ||
-Week 4\n (9\/12 - 9\/16) |  1st and 2nd order systems | Chapter 4 | No new homework ||
-Week 5\n (9\/19 - 9\/23) | Laplace transform| Chapter 4, 5 | Homework 2 (due 2\/25)||
-Week 6\n (9\/26 - 9\/30) | Laplace transform \n Inverse Laplace transform \n Transfer function | Chapter 5 |  No new homework||
-Week 7\n (10\/3 - 10\/7) | Inverse Laplace transform \n Transfer function | Chapter 6 | No new homework  ||
-Week 8\n (10\/10 - 10/14) |  Transfer function \n W: Midterm review \n F: In-class Midterm | Chapter 7 | Homework 3 (due 03\/18)  ||
-Week 9\n (10\/17 - 10\/21) |  Transient response | Chapters 7, 8 | No new homework ||
-Week 10\n (10\/24 - 10\/28) | Frequency response | Chapter 8\n Appendix C | Homework 4 (due 4\/08) ||
-Week 11\n (10\/31 - 11\/4) | Bode plots | Chapter 9| No new homework ||
-Week 12\n (11\/7 - 11\/11) | Mechanical systems \n Lagrangian dynamics | Chapter 10| No new homework ||
-Week 13\n (11\/14 - 11\/18) |  Lagrangian dynamics \n Equilibrium points and Linearization | Chapter 11| Homework 5 (due 4\/27) ||
-Week 14\n (11\/21 - 11\/25) |  |  | Fall Break ||
-Week 15\n (11\/28 - 12\/2) |  Stability \n Stability margins | N/A | *Final exam\n date TBD* ||
-Week 16\n (12\/5 - 12\/9) |  Special topic | N/A | *Final exam\n date TBD*
+Week 1\n (8\/22 - 8\/26) |  Logistics \n Introduction \n Complex Analysis   | | Sign up for Canvas ||
+Week 2\n (8\/29 - 9\/2) | Complex Analysis \n Ordinary differential equations | | Homework 1 released(8\/29) ||
+Week 3\n (9\/5 - 9\/9) | Ordinary Differential Equations \n State Space Equations |  | No class on Monday ([https://registrar.illinois.edu/academic-calendars/fall-2022-academic-calendar/ Labor day]) \n HW1 due (9\/9 @ 11:59 pm)  ||
+Week 4\n (9\/12 - 9\/16) |  1st and 2nd Order Systems |  |   ||
+Week 5\n (9\/19 - 9\/23) | Laplace Transform|  |  ||
+Week 6\n (9\/26 - 9\/30) | Laplace Transform \n Inverse Laplace Transform \n Transfer Function |  |   ||
+Week 7\n (10\/3 - 10\/7) | Inverse Laplace Transform \n Transfer Function |  |   ||
+Week 8\n (10\/10 - 10/14) |  Transfer Function \n W: Midterm review \n F: In-class Midterm |  |    ||
+Week 9\n (10\/17 - 10\/21) |  Transient Response | |   ||
+Week 10\n (10\/24 - 10\/28) | Frequency Response |  |   ||
+Week 11\n (10\/31 - 11\/4) | Bode plots |  |   ||
+Week 12\n (11\/7 - 11\/11) | Mechanical Systems \n Lagrangian Dynamics |  |   ||
+Week 13\n (11\/14 - 11\/18) |  Lagrangian Dynamics \n Equilibrium Points and Linearization |  |   ||
+Week 14\n (11\/21 - 11\/25) |  |  |   ||
+Week 15\n (11\/28 - 12\/2) |  Stability \n Stability Margins |  |  ||
+Week 16\n (12\/5 - 12\/9) |  Special Topic |   | *Final exam\n date TBD*
 ~~~
 
 
