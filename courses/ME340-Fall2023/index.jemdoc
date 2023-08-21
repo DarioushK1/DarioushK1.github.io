@@ -4,18 +4,20 @@
 
 *Instructor:* Darioush Keivan ([dk12@illinois.edu dk12@illinois.edu]), PhD Student, Department of Mechanical Engineering
 
-*TA:* 
+*TA:* TBA
 
-*Graders:* 
+*Graders:* TBA
 
 *Lectures:* MWF 11:00-11:50am CT in 4100 Sidney Lu Mechanical Engineering Bldg (LUMEB 4100).
 
 
-*Canvas*: We will be using Canvas to manage class logistics.  *Please log in and register [https://canvas.illinois.edu/courses/31049 here]*.
+*Canvas*: We will be using Canvas to manage class logistics.  
+#*Please log in and register [https://canvas.illinois.edu/courses/31049 here]*.
 
 
 == Office hours
-- *Darioush's OHs:* Monday 11 a.m. - 12 p.m. @ CSL 160
+- *Darioush's OHs:* TBA 
+#Monday 11 a.m. - 12 p.m. @ CSL 160
 #- *Zhengtao' OHs:* Wednesday and Thursday 4-6 p.m. @ MEB 0026
 
 == About the Course
@@ -36,7 +38,6 @@ but you must write up your own homework solutions and code to hand in.
 - Each homework problem will be graded on a scale of 0-100. 
 - Assignment with the lowest grade for each student will be dropped. 
 - You are encouraged to use [./hw-template/ME340-template.zip this] LaTeX template to write your solutions.
-- Each homework handed in with the aformentioned LaTeX format can earn extra credit up to 10 points on the scale of 0-100.
 === Lab assignments
 The labs are managed by [d-block@illinois.edu Dr. Daniel Block] and Lab TAs. 
 The information on lab sessions (lab handouts and other details) are found [http://coecsl.ece.illinois.edu/me340/ here].
@@ -45,16 +46,16 @@ The information on lab sessions (lab handouts and other details) are found [http
 - For all lab-related questions should be addressed to the lab TA assigned to your lab section.
 Make use of the lab office hours.
 === Exams
-There will be *one in-class midterm* exam and a *3-hours final* exam from *8-11 a.m* in *4100 LUMEB*.
+There will be *one in-class midterm* exam and a *3-hours final* exam.
 
 === Extra Credit
-You can earn an extra credit up to 10\%.
+You can earn an extra credit up to 5\%.
 === Grading
 - *Homework assignments: 45\%*
 - *Lab assignments: 15\%*
 - *Midterm Exam: 15\%*
 - *Final Exam: 25\%*
-- *Extra Credit: 4.5\% on Homeworks, 5\% on Exams*
+- *Extra Credit: 5\% on Final Exam*
 
 \n
 === Schedule
@@ -62,23 +63,23 @@ The following schedule is tentative and subject to change.
 ~~~
 {}{table}{SCHEDULE}
 Date          | Topic          | materials | Comments ||
-Week 1\n (8\/22 - 8\/26) |  Logistics \n Introduction \n Complex Analysis   | [https://canvas.illinois.edu/courses/31049/files/5220080?module_item_id=2165411 LecNote01] \n [https://canvas.illinois.edu/courses/31049/files/5239267?module_item_id=2170997 LecNote02] \n [https://canvas.illinois.edu/courses/31049/files/5260067?module_item_id=2176436 LecNote03]| Sign up for Canvas ||
-Week 2\n (8\/29 - 9\/2) | Complex Analysis \n Ordinary Differential Equations | [https://canvas.illinois.edu/courses/31049/files/5284062?module_item_id=2179733 LecNote04] \n [https://canvas.illinois.edu/courses/31049/files/5285306?module_item_id=2179792 LecNote05] \n [https://canvas.illinois.edu/courses/31049/files/5285316?module_item_id=2179793 LecNote06]| [https://canvas.illinois.edu/courses/31049/assignments/563806?module_item_id=2179822 HW1] release date: *M*(8\/29) ||
-Week 3\n (9\/5 - 9\/9) | Ordinary Differential Equations |[https://canvas.illinois.edu/courses/31049/files/5402114?module_item_id=2193160 LecNote07] \n [https://canvas.illinois.edu/courses/31049/files/5402118?module_item_id=2193161 LecNote08] | No class on Monday ([https://registrar.illinois.edu/academic-calendars/fall-2022-academic-calendar/ Labor day]) \n *HW1* due: *F*(9\/9) @ 11:59 pm  ||
-Week 4\n (9\/12 - 9\/16) |  1st and 2nd Order Systems \n State Space representation | [https://canvas.illinois.edu/courses/31049/files/5478655?module_item_id=2198869 LecNote09] \n [https://canvas.illinois.edu/courses/31049/files/5513455?module_item_id=2202801 LecNote10] \n [https://canvas.illinois.edu/courses/31049/files/5600323?module_item_id=2206644 LecNote11] |  [https://canvas.illinois.edu/courses/31049/assignments/571186?module_item_id=2202802 HW2] release date: *Tu*(9\/13) ||
-Week 5\n (9\/19 - 9\/23) | Laplace Transform| [https://canvas.illinois.edu/courses/31049/files/5773621?module_item_id=2208359 LecNote12] \n [https://canvas.illinois.edu/courses/31049/files/5773622?module_item_id=2208360 LecNote13] \n [https://canvas.illinois.edu/courses/31049/files/5773623?module_item_id=2208361 LecNote14] | *HW2* due: *F*(9\/23) @ 11:59 pm \n [https://canvas.illinois.edu/courses/31049/assignments/572841?module_item_id=2208450 HW3] release date: *Su*(9\/18) ||
-Week 6\n (9\/26 - 9\/30) | Laplace Transform \n Inverse Laplace Transform| [https://canvas.illinois.edu/courses/31049/files/5878067?module_item_id=2217924 LecNote15] \n [https://canvas.illinois.edu/courses/31049/files/5878068?module_item_id=2217925 LecNote16] \n [https://canvas.illinois.edu/courses/31049/files/5878069?module_item_id=2217926 LecNote17] | *HW3* due: *F*(9\/30) @ 11:59 pm \n [https://canvas.illinois.edu/courses/31049/assignments/575999?module_item_id=2217972 HW4] release date: *Su*(9\/25)||
-Week 7\n (10\/3 - 10\/7) | Inverse Laplace Transform \n Transfer Function | [https://canvas.illinois.edu/courses/31049/files/5982257?module_item_id=2228469 LecNote18] \n [https://canvas.illinois.edu/courses/31049/files/5982260?module_item_id=2228470 LecNote19] \n [https://canvas.illinois.edu/courses/31049/files/5982263?module_item_id=2228471 LecNote20] |*HW4* due: *F*(10\/7) @ 11:59 pm \n [https://canvas.illinois.edu/courses/31049/assignments/579642?module_item_id=2228484 HW5] release date: *Su*(10\/02)||
-Week 8\n (10\/10 - 10/14) |  Transfer Function \n *W:* Midterm review \n *F:* In-class Midterm | [https://canvas.illinois.edu/courses/31049/files/6082409?module_item_id=2238204 LecNote21] \n [https://canvas.illinois.edu/courses/31049/files/6082450?module_item_id=2238205 mReview] | *HW5* due: *W*(10\/12) @ 11:59 pm \n *Midterm:* In-class on *F*(10\/14)  ||
-Week 9\n (10\/17 - 10\/21) |  Transient Response | [https://canvas.illinois.edu/courses/31049/files/6176242?module_item_id=2248507 LecNote22] \n [https://canvas.illinois.edu/courses/31049/files/6176244?module_item_id=2248508 LecNote23] \n [https://canvas.illinois.edu/courses/31049/files/6176247?module_item_id=2248509 LecNote24] |   ||
-Week 10\n (10\/24 - 10\/28) | Frequency Response \n Bode plots | [https://canvas.illinois.edu/courses/31049/files/6269054?module_item_id=2256866 LecNote25] \n [https://canvas.illinois.edu/courses/31049/files/6269055?module_item_id=2256867 LecNote26] \n [https://canvas.illinois.edu/courses/31049/files/6269060?module_item_id=2256868 LecNote27] | [https://canvas.illinois.edu/courses/31049/assignments/588421?module_item_id=2256873 HW6] release date: *Su*(10\/23) \n [https://canvas.illinois.edu/courses/31049/assignments/588422?module_item_id=2256876 HW7] release date: *Su*(10\/23) ||
-Week 11\n (10\/31 - 11\/4) | Bode plots \n Mechanical Systems| [https://canvas.illinois.edu/courses/31049/files/6359235?module_item_id=2267873 LecNote28] \n [https://canvas.illinois.edu/courses/31049/files/6358375?module_item_id=2267839 LecNote29] \n [https://canvas.illinois.edu/courses/31049/files/6358376?module_item_id=2267840 LecNote30] | *HW6* due: *M*(10\/31) @ 11:59 pm \n [https://canvas.illinois.edu/courses/31049/assignments/591756?module_item_id=2267888 HW8] release date: *Su*(10\/30) ||
-Week 12\n (11\/7 - 11\/11) | Mechanical Systems | [https://canvas.illinois.edu/courses/31049/files/6589104?module_item_id=2293492 LecNote31] \n [https://canvas.illinois.edu/courses/31049/files/6589105?module_item_id=2293493 LecNote32] \n [https://canvas.illinois.edu/courses/31049/files/6589106?module_item_id=2293494 LecNote33] |  *HW7* due: *M*(11\/07) @ 11:59 pm ||
-Week 13\n (11\/14 - 11\/18) |  Energy Methods \n Equilibrium Points and Linearization | [https://canvas.illinois.edu/courses/31049/files/6589107?module_item_id=2293495 LecNote34] \n [https://canvas.illinois.edu/courses/31049/files/6589109?module_item_id=2293496 LecNote35] | *HW8* due: *M*(11\/14) @ 11:59 pm \n [https://canvas.illinois.edu/courses/31049/assignments/600251?module_item_id=2293516 HW9] release date: *W*(11\/16) \n [https://canvas.illinois.edu/courses/31049/assignments/600254?module_item_id=2293523 HW10] release date: *W*(11\/16) ||
-Week 14\n (11\/21 - 11\/25) |  |  | [https://registrar.illinois.edu/academic-calendars/fall-2022-academic-calendar/ Fall Break]  ||
-Week 15\n (11\/28 - 12\/2) | Lagrangian Dynamics  | [https://canvas.illinois.edu/courses/31049/files/6589110?module_item_id=2293497 LecNote36] | *HW9* due: *M*(11\/28) @ 11:59 pm ||
-Week 16\n (12\/5 - 12\/9) |  Lagrangian Dynamics \n *W:* Final review |   | *HW10* due: *F*(12\/09) @ 11:59 pm \n *W*(12\/7): [https://registrar.illinois.edu/academic-calendars/fall-2022-academic-calendar/ Last day of instruction] ||
-Week 17\n (12\/12 - 12\/16) |  No class \n *TH:* Final exam |   | *Final exam*: *TH*(12\/15) 8-11 a.m \n *Place:* 4100 LUMEB.
+Week 1\n (8\/21 - 8\/25) |  Logistics \n Introduction \n Complex Analysis   | | Sign up for Canvas ||
+Week 2\n (8\/28 - 9\/1) | Complex Analysis \n Ordinary Differential Equations | | [HW1] release date: *M*(8\/28) ||
+Week 3\n (9\/4 - 9\/8) | Ordinary Differential Equations | | No class on Monday ([https://registrar.illinois.edu/academic-calendars/fall-2023-academic-calendar/ Labor day]) \n *HW1* due: *W*(9\/6) @ 11:59 pm  ||
+Week 4\n (9\/11 - 9\/15) |  1st and 2nd Order Systems \n State Space representation | |  [HW2] release date: *M*(9\/11) ||
+Week 5\n (9\/18 - 9\/22) | Laplace Transform|  | *HW2* due: *W*(9\/20) @ 11:59 pm \n [HW3] release date: *M*(9\/18) ||
+Week 6\n (9\/25 - 9\/29) | Laplace Transform \n Inverse Laplace Transform| | *HW3* due: *W*(9\/27) @ 11:59 pm \n [HW4] release date: *M*(9\/25)||
+Week 7\n (10\/2 - 10\/6) | Inverse Laplace Transform \n Transfer Function |  |*HW4* due: *W*(10\/04) @ 11:59 pm \n [HW5] release date: *M*(10\/02)||
+Week 8\n (10\/9 - 10/13) |  Transfer Function \n *W:* Midterm review \n *F:* In-class Midterm |  | *HW5* due: *W*(10\/11) @ 11:59 pm \n *Midterm:* In-class on *F*(10\/13)  ||
+Week 9\n (10\/16 - 10\/20) |  Transient Response |  |  [HW6] release date: *M*(10\/16) ||
+Week 10\n (10\/23 - 10\/27) | Frequency Response \n Bode plots |  | *HW6* due: *W*(10\/25) @ 11:59 pm \n [HW7] release date: *M*(10\/23) ||
+Week 11\n (10\/30 - 11\/3) | Bode plots \n Mechanical Systems|  | *HW7* due: *W*(11\/01) @ 11:59 pm \n [HW8] release date: *M*(10\/30) ||
+Week 12\n (11\/6 - 11\/10) | Mechanical Systems | |  *HW8* due: *W*(11\/08) @ 11:59 pm \n [HW9] release date: *M*(11\/06) ||
+Week 13\n (11\/13 - 11\/17) |  Energy Methods \n Equilibrium Points and Linearization |  | *HW9* due: *W*(11\/15) @ 11:59 pm||
+Week 14\n (11\/20 - 11\/24) |  |  | [https://registrar.illinois.edu/academic-calendars/fall-2023-academic-calendar/ Fall Break]  ||
+Week 15\n (11\/27 - 12\/1) | Lagrangian Dynamics  |  | [HW10] release date: *M*(11\/27) ||
+Week 16\n (12\/4 - 12\/8) |  Lagrangian Dynamics \n *W:* Final review |   | *HW10* due: *W*(12\/06) @ 11:59 pm \n *W*(12\/06): [https://registrar.illinois.edu/academic-calendars/fall-2023-academic-calendar/ Last day of instruction] ||
+Week 17\n (12\/11 - 12\/15) |  No class  |   | *Final exam*: TBA
 ~~~
 
 
